@@ -1,0 +1,9 @@
+recipe name:tea
+
+ingradients
+
+1)water -1lt
+
+2)milk-1 lt
+3)sugar -200 gram
+4)tea powder -two teespoon
